@@ -8,13 +8,6 @@ Our project focuses on delivering a user-friendly experience for snack enthusias
 
 The search bar features a convenient history of recent searches for quick access. Upon selecting a recipe, users are presented with a modal displaying essential details such as cook time, rating, and serving size alongside an engaging image. Our commitment to transparency is showcased on the home page, where a direct link to our GitHub repository highlights project contributors and their role as code contributors, fostering a collaborative community. Our goal is to provide a seamless and enjoyable snacking experience for users seeking hassle-free access to finger-food recipes.
 
-## Table of Contents 
-
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Features](#features)
-
 ## Usage
 
 ### Instruction:
